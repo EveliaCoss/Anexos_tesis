@@ -1,2 +1,2 @@
 # Anexos_tesis
-Figuras y tablas suplementarias complementarias a la tesis de doctorado.
+Archivos y scripts resultados de la tesis de doctorado.
